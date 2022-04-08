@@ -1,0 +1,12 @@
+
+public class AboutMe {
+
+	public static void main(String[] args) {
+		String name = "My name Juan Poteet.";
+		int age = 45;
+		String goal = "I wish to create my own Tech Company! ";
+		
+		System.out.println(name + " I am " + age + " years old. "+ "My goal, " + goal);
+	}
+
+}
